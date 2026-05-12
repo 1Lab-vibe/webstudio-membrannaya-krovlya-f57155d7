@@ -1,11 +1,7 @@
 {
   "leadId": "f57155d7-4481-415a-81ed-e0afe6a0605f",
   "businessName": "Мембранная кровля",
-  "city": "Москва",
-  "niche": "кровельщики",
   "publicUrl": "https://webstudio.1true.ru/projects/membrannaya-krovlya-f57155d7/",
-  "slug": "membrannaya-krovlya-f57155d7",
-  "strategy": "coder_template_preview",
   "fallbackReason": "manual_top_diagnosis_coder_template_smoke",
-  "deployedAt": "2026-05-12T09:55:51.121Z"
+  "publishedToGitHubAt": "2026-05-12T09:55:53.804Z"
 }
